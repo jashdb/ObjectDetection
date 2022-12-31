@@ -43,6 +43,8 @@ Number of examples for different object categories do not differ significantly. 
 
 ---------------------------------------------------------------------------------
 The orginal paper is COMP 767 Final Project by Manoosh Samiei and Ruofeng Li. We're really appreciated for their idea, so that we can come up with our own contribution, which is presented in our Final Project.
+
+## Credit
 ...
 @misc{https://doi.org/10.48550/arxiv.2208.04511,
   doi = {10.48550/ARXIV.2208.04511},

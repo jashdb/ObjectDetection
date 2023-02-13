@@ -51,15 +51,4 @@ The orginal paper is COMP 767 Final Project by Manoosh Samiei and Ruofeng Li. We
 
 ## Credit
 
-```
-@misc{https://doi.org/10.48550/arxiv.2208.04511,
-  doi = {10.48550/ARXIV.2208.04511},
-  url = {https://arxiv.org/abs/2208.04511}, 
-  author = {Samiei, Manoosh and Li, Ruofeng},
-  keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences}, 
-  title = {Object Detection with Deep Reinforcement Learning},
-  publisher = {arXiv}, 
-  year = {2022},
-  copyright = {Creative Commons Attribution 4.0 International}
-}
-```
+	arXiv:2208.04511
